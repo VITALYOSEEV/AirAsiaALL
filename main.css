@@ -845,7 +845,7 @@ margin-right: 7%;
   display: none;
 }
 
-.form_btns {
+.form__btns {
   display: flex;
   justify-content: flex-end;
 }
