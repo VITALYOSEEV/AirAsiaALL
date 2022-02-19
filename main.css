@@ -868,9 +868,11 @@ margin-right: 7%;
   height: 100%;
   align-items: center;
   justify-content: center;
-  background: url("./img/bg.png") center bottom / cover no-repeat;
+  background: 
+  url(./img/shades.png) center  center no-repeat,
+  url("./img/bg.png") center bottom / cover no-repeat;
 }
-  
+
 .central {
   display: flex;
   flex-direction: column;
