@@ -872,7 +872,7 @@ margin-right: 7%;
   url(./img/shades.png) center  center no-repeat,
   url("./img/bg.png") center bottom / cover no-repeat;
 }
-
+  
 .central {
   display: flex;
   flex-direction: column;
